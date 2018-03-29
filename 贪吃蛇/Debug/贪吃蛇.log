@@ -1,0 +1,13 @@
+﻿  源.cpp
+f:\c++\贪吃蛇\贪吃蛇\sys.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“snakeinfo”的左侧
+  SnakeApp.cpp
+f:\c++\贪吃蛇\贪吃蛇\sys.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“snakeinfo”的左侧
+  snake.cpp
+f:\c++\贪吃蛇\贪吃蛇\sys.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“snakeinfo”的左侧
+  Background.cpp
+f:\c++\贪吃蛇\贪吃蛇\sys.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“snakeinfo”的左侧
+  Apple.cpp
+f:\c++\贪吃蛇\贪吃蛇\sys.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“snakeinfo”的左侧
+  正在生成代码...
+  贪吃蛇.vcxproj -> F:\C++\贪吃蛇\Debug\贪吃蛇.exe
+  贪吃蛇.vcxproj -> F:\C++\贪吃蛇\Debug\贪吃蛇.pdb (Full PDB)
